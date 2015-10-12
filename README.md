@@ -1,0 +1,2 @@
+# xebex
+An ejabberd embedded
